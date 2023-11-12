@@ -1,3 +1,11 @@
 Developer Tools iniciais
 - Spring Boot DevTools
 - Spring Web
+
+
+Annotation
+	-RequestMapping
+		- path = Caminho do seu método/função ao ser chamado na URL, é tipo Array onde você pode usar mais de 1 path.
+		- method = Comportamento do seu método como por exemplo GET, DELETE, POST etc.
+	- Posso usar tanto @(Método)Mapping quanto request, declarando no Request o method get, 
+	funciona da mesma forma que o GetMapping, vai depender do projeto.

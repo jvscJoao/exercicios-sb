@@ -12,7 +12,7 @@
 	<artifactId>exercicios-sb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exercicios-sb</name>
-	<description>Exercícios de Spring Boot do Curso da Cod3er</description>
+	<description>Exercícios de Spring Boot do Curso da Cod3r</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
